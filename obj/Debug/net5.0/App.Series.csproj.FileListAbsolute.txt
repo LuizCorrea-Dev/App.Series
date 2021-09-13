@@ -1,0 +1,16 @@
+D:\Cursos\bootcamp DecolaTech\App.Series\obj\Debug\net5.0\App.Series.csproj.AssemblyReference.cache
+D:\Cursos\bootcamp DecolaTech\App.Series\obj\Debug\net5.0\App.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\bootcamp DecolaTech\App.Series\obj\Debug\net5.0\App.Series.AssemblyInfoInputs.cache
+D:\Cursos\bootcamp DecolaTech\App.Series\obj\Debug\net5.0\App.Series.AssemblyInfo.cs
+D:\Cursos\bootcamp DecolaTech\App.Series\obj\Debug\net5.0\App.Series.csproj.CoreCompileInputs.cache
+D:\Cursos\bootcamp DecolaTech\App.Series\bin\Debug\net5.0\App.Series.exe
+D:\Cursos\bootcamp DecolaTech\App.Series\bin\Debug\net5.0\App.Series.deps.json
+D:\Cursos\bootcamp DecolaTech\App.Series\bin\Debug\net5.0\App.Series.runtimeconfig.json
+D:\Cursos\bootcamp DecolaTech\App.Series\bin\Debug\net5.0\App.Series.runtimeconfig.dev.json
+D:\Cursos\bootcamp DecolaTech\App.Series\bin\Debug\net5.0\App.Series.dll
+D:\Cursos\bootcamp DecolaTech\App.Series\bin\Debug\net5.0\ref\App.Series.dll
+D:\Cursos\bootcamp DecolaTech\App.Series\bin\Debug\net5.0\App.Series.pdb
+D:\Cursos\bootcamp DecolaTech\App.Series\obj\Debug\net5.0\App.Series.dll
+D:\Cursos\bootcamp DecolaTech\App.Series\obj\Debug\net5.0\ref\App.Series.dll
+D:\Cursos\bootcamp DecolaTech\App.Series\obj\Debug\net5.0\App.Series.pdb
+D:\Cursos\bootcamp DecolaTech\App.Series\obj\Debug\net5.0\App.Series.genruntimeconfig.cache
